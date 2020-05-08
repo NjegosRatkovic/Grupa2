@@ -7,10 +7,10 @@ http://www.templatemo.com/tm-514-magazee
 */
 
 body {
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', Helvetica, Times New Roman, sans-serif;
 	font-size: 24px;
     color: black;
-    background-color: #f0c7c7;
+    background-color: #785347;
 }
 
 p, q { line-height: 1.8; }
@@ -22,7 +22,7 @@ h2 { font-size: 1.8rem; }
 
 .tm-quote {
     font-size: 1.35rem;
-    font-style: italic;
+    font-style: bold;
 }
 
 .container {
@@ -35,7 +35,7 @@ h2 { font-size: 1.8rem; }
 }
 
 .tm-section {
-    background-color: white;
+    background-color: black;
 }
 
 .tm-section,
@@ -72,7 +72,7 @@ h2 { font-size: 1.8rem; }
 }
 
 .btn-secondary {
-    background: #009999;
+    background: #804433;
     border-color: #009999;
 }
 
